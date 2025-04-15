@@ -337,5 +337,13 @@
             "Effet": 0.00,
             "Confort": 0.00
         }
+        ,
+        "test":
+        {
+            "Contrôle": 26.00,
+            "Puissance": 0.00,
+            "Effet": 0.00,
+            "Confort": 0.00
+        }
     }
 }
