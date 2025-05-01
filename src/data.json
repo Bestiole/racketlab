@@ -3,166 +3,205 @@
     {
         "Monofilament":
         {
-            "Contrôle": 6.3,
-            "Puissance": 5.1,
-            "Effet": 9.5,
-            "Confort": 5.1
+            "Contrôle": 6.0,
+            "Puissance": 4.0,
+            "Effet": 9.0,
+            "Confort": 4.0
         },
         "Multifilament":
         {
-            "Contrôle": 2.6,
-            "Puissance": 8.6,
-            "Effet": 6.1,
-            "Confort": 8.6
+            "Contrôle": 2.0,
+            "Puissance": 8.0,
+            "Effet": 5.0,
+            "Confort": 8.0
         },
         "Boyau":
         {
-            "Contrôle": 1.2,
-            "Puissance": 9.8,
-            "Effet": 6.2,
-            "Confort": 8.7
+            "Contrôle": 1.0,
+            "Puissance": 9.0,
+            "Effet": 7.0,
+            "Confort": 8.0
         }
     },
     "Tension":
     {
         "16":
         {
-            "Contrôle": 4.0,
-            "Puissance": 14.0,
-            "Effet": 4.0,
-            "Confort": 4.0
+            "Contrôle": 1.0,
+            "Puissance": 9.0,
+            "Effet": 7.0,
+            "Confort": 8.0
         },
         "17":
         {
-            "Contrôle": 5.0,
-            "Puissance": 13.0,
-            "Effet": 4.0,
-            "Confort": 4.0
+            "Contrôle": 2.0,
+            "Puissance": 8.42,
+            "Effet": 6.78,
+            "Confort": 7.50
         },
 		"18":
         {
-            "Contrôle": 6.0,
-            "Puissance": 12.0,
-            "Effet": 4.0,
-            "Confort": 4.0
+            "Contrôle": 2.5,
+            "Puissance": 7.83,
+            "Effet": 6.56,
+            "Confort": 7.0
         },
         "19":
         {
-            "Contrôle": 7.0,
-            "Puissance": 11.0,
-            "Effet": 4.0,
-            "Confort": 4.0
+            "Contrôle": 4.0,
+            "Puissance": 7.25,
+            "Effet": 6.33,
+            "Confort": 6.5
         },
         "20":
         {
-            "Contrôle": 8.0,
-            "Puissance": 10.0,
-            "Effet": 4.0,
-            "Confort": 4.0
+            "Contrôle": 5.5,
+            "Puissance": 6.66,
+            "Effet": 6.11,
+            "Confort": 6.0
         },
         "21":
         {
-            "Contrôle": 9.0,
-            "Puissance": 9.0,
-            "Effet": 4.0,
-            "Confort": 4.0
+            "Contrôle": 5.5,
+            "Puissance": 6.08,
+            "Effet": 5.9,
+            "Confort": 5.5
         },
         "22":
         {
-            "Contrôle": 10.0,
-            "Puissance": 8.0,
-            "Effet": 4.0,
-            "Confort": 4.0
+            "Contrôle": 6.0,
+            "Puissance": 5.5,
+            "Effet": 5.7,
+            "Confort": 5.0
         },
         "23":
         {
-            "Contrôle": 11.0,
-            "Puissance": 7.0,
-            "Effet": 4.0,
-            "Confort": 4.0
+             "Contrôle": 6.8,
+            "Puissance": 4.75,
+            "Effet": 5.35,
+            "Confort": 4.5
         },
         "24":
         {
-            "Contrôle": 12.0,
-            "Puissance": 6.0,
-            "Effet": 4.0,
+            "Contrôle": 7.5,
+            "Puissance": 4.0,
+            "Effet": 5.0,
             "Confort": 4.0
         },
         "25":
         {
-            "Contrôle": 13.0,
-            "Puissance": 5.0,
-            "Effet": 4.0,
-            "Confort": 4.0
+            "Contrôle": 8.30,
+            "Puissance": 2.5,
+            "Effet": 3.5,
+            "Confort": 3.5
         },
         "26":
         {
-            "Contrôle": 14.0,
-            "Puissance": 4.0,
-            "Effet": 4.0,
-            "Confort": 4.0
+            "Contrôle": 9.0,
+            "Puissance": 1.0,
+            "Effet": 2.0,
+            "Confort": 3.0
         }
     },
     "Jauge":
     {
-        "1.19":
+		"1.10":
         {
-            "Contrôle": 4.0,
-            "Puissance": 7.5,
+            "Contrôle": 1.0,
+            "Puissance": 9.0,
             "Effet": 7.0,
-            "Confort": 7.5
+            "Confort": 7.0
+        },
+		"1.19":
+        {
+            "Contrôle": 2.15,
+            "Puissance": 8.2,
+            "Effet": 6.6,
+            "Confort": 6.6
         },
         "1.2":
         {
-            "Contrôle": 6.5,
-            "Puissance": 6.6,
-            "Effet": 6.3,
-            "Confort": 6.7
+            "Contrôle": 3.3,
+            "Puissance": 7.4,
+            "Effet": 6.2,
+            "Confort": 6.2
         },
         "1.23":
         {
-            "Contrôle": 9.0,
-            "Puissance": 5.8,
-            "Effet": 5.5,
-            "Confort": 5.8
+            "Contrôle": 4.4,
+            "Puissance": 6.45,
+            "Effet": 5.85,
+            "Confort": 5.85
         },
         "1.25":
         {
-            "Contrôle": 11.5,
-            "Puissance": 4.9,
-            "Effet": 4.8,
-            "Confort": 4.9
+            "Contrôle": 5.5,
+            "Puissance": 5.5,
+            "Effet": 5.5,
+            "Confort": 5.5
         },
-		"1.275":
+		"1.28":
         {
-            "Contrôle": 12.8,
-            "Puissance": 4.5,
-            "Effet": 4.4,
-            "Confort": 4.5
+            "Contrôle": 6.15,
+            "Puissance": 4.7,
+            "Effet": 5.10,
+            "Confort": 5.10
         },
         "1.3":
         {
-            "Contrôle": 14.0,
+            "Contrôle": 6.80,
             "Puissance": 4.0,
-            "Effet": 4.0,
-            "Confort": 4.0
+            "Effet": 4.70,
+            "Confort": 4.70
+        }
+		},
+        "1.32":
+        {
+            "Contrôle": 7.40,
+            "Puissance": 3.20,
+            "Effet": 4.30,
+            "Confort": 4.30
+        }
+		},
+        "1.33":
+        {
+            "Contrôle": 8.0,
+            "Puissance": 2.40,
+            "Effet": 3.90,
+            "Confort": 3.90
+        }
+		},
+        "1.34":
+        {
+            "Contrôle": 8.60,
+            "Puissance": 1.60,
+            "Effet": 3.45,
+            "Confort": 3.45
+        }
+		},
+        "1.35":
+        {
+            "Contrôle": 9.20,
+            "Puissance": 0.80,
+            "Effet": 3.00,
+            "Confort": 3.00
         }
     },
     "Section" :
     {
         "Lisse":
         {
-            "Contrôle": 5.0,
-            "Puissance": 10.0,
-            "Effet": 6.0,
-            "Confort": 5.0
+            "Contrôle": 4.50,
+            "Puissance": 9.00,
+            "Effet": 5.40,
+            "Confort": 4.50
         },
         "Texture":
         {
-            "Contrôle": 4.0,
-            "Puissance": 7.0,
-            "Effet": 10.0,
-            "Confort": 5.0
+            "Contrôle": 3.60,
+            "Puissance": 6.30,
+            "Effet": 9.00,
+            "Confort": 4.50
         }
     },
     "Plan de cordage" :
@@ -200,125 +239,125 @@
     {
         "30":
         {
-            "Contrôle": 8.0,
-            "Puissance": 5.0,
-            "Effet": 8.0,
-            "Confort": 5.0
+            "Contrôle": 9.00,
+            "Puissance": 1.00,
+            "Effet": 6.00,
+            "Confort": 4.00
         },
         "31":
         {
-            "Contrôle": 7.3,
-            "Puissance": 5.8,
-            "Effet": 7.3,
-            "Confort": 5.8
+            "Contrôle": 7.00,
+            "Puissance": 3.00,
+            "Effet": 5.75,
+            "Confort": 4.25
         },
         "32":
         {
-            "Contrôle": 6.5,
-            "Puissance": 6.5,
-            "Effet": 6.5,
-            "Confort": 6.5
+            "Contrôle": 5.00,
+            "Puissance": 5.00,
+            "Effet": 5.00,
+            "Confort": 4.50
         },
         "33":
         {
-            "Contrôle": 5.8,
-            "Puissance": 7.3,
-            "Effet": 5.8,
-            "Confort": 7.3
+            "Contrôle": 3.00,
+            "Puissance": 7.00,
+            "Effet": 5.25,
+            "Confort": 4.75
         },
         "34":
         {
-            "Contrôle": 5.0,
-            "Puissance": 8.0,
-            "Effet": 5.0,
-            "Confort": 8.0
+            "Contrôle": 1.00,
+            "Puissance": 9.00,
+            "Effet": 5.00,
+            "Confort": 5.00
         }
     },
     "Poids" :
     {
         "255 à 259":
         {
-            "Contrôle": 9.0,
-            "Puissance": 3.0,
-            "Effet": 7.0,
-            "Confort": 7.0
+            "Contrôle": 6.47,
+            "Puissance": 2.16,
+            "Effet": 8.98,
+            "Confort": 1.08
         },
         "260 à 264":
         {
-            "Contrôle": 8.6,
-            "Puissance": 3.6,
-            "Effet": 6.9,
-            "Confort": 6.9
+            "Contrôle": 6.18,
+            "Puissance": 2.55,
+            "Effet": 8.52,
+            "Confort": 1.44
         },
         "265 à 269":
         {
-            "Contrôle": 8.2,
-            "Puissance": 4.1,
-            "Effet": 6.9,
-            "Confort": 6.9
+            "Contrôle": 5.88,
+            "Puissance": 2.95,
+            "Effet": 8.05,
+            "Confort": 1.80
         },
 	"270 à 274":
         {
-            "Contrôle": 7.8,
-            "Puissance": 4.7,
-            "Effet": 6.8,
-            "Confort": 6.8
+            "Contrôle": 5.58,
+            "Puissance": 3.34,
+            "Effet": 7.62,
+            "Confort": 2.16
         },
 	    "275 à 279":
         {
-            "Contrôle": 7.4,
-            "Puissance": 5.2,
-            "Effet": 6.7,
-            "Confort": 6.7
+            "Contrôle": 5.29,
+            "Puissance": 3.74,
+            "Effet": 7.12,
+            "Confort": 2.52
         },
 	    "280 à 284":
         {
-            "Contrôle": 7.0,
-            "Puissance": 5.8,
-            "Effet": 6.6,
-            "Confort": 6.6
+            "Contrôle": 5.00,
+            "Puissance": 4.20,
+            "Effet": 6.61,
+            "Confort": 2.87
         },
 	    "285 à 289":
         {
-            "Contrôle": 6.5,
-            "Puissance": 6.5,
-            "Effet": 6.5,
-            "Confort": 6.5
+            "Contrôle": 4.67,
+            "Puissance": 4.67,
+            "Effet": 6.11,
+            "Confort": 3.23
         },
 	    "290 à 294":
         {
-            "Contrôle": 6.4,
-            "Puissance": 7.0,
-            "Effet": 6.6,
-            "Confort": 6.0
+            "Contrôle": 4.60,
+            "Puissance": 5.03,
+            "Effet": 5.46,
+            "Confort": 3.59
         },
 	    "295 à 299":
         {
-            "Contrôle": 6.3,
-            "Puissance": 7.5,
-            "Effet": 6.7,
-            "Confort": 5.5
+            "Contrôle": 4.53,
+            "Puissance": 5.39,
+            "Effet": 4.82,
+            "Confort": 3.95
         },
 	    "300 à 304":
         {
-            "Contrôle": 6.2,
-            "Puissance": 8.0,
-            "Effet": 6.8,
-            "Confort": 5.0
+            "Contrôle": 4.46,
+            "Puissance": 5.75,
+            "Effet": 4.17,
+            "Confort": 4.31
         },
 	    "305 à 309":
         {
-            "Contrôle": 6.1,
-            "Puissance": 8.5,
-            "Effet": 6.9,
-            "Confort": 4.5
+            "Contrôle": 4.38,
+            "Puissance": 6.11,
+            "Effet": 3.52,
+            "Confort": 4.67
         },
 	    "310 à 315":
         {
-            "Contrôle": 6.0,
-            "Puissance": 9.0,
-            "Effet": 7.0,
-            "Confort": 4.0
+            "Contrôle": 4.31,
+            "Puissance": 6.47,
+            "Effet": 2.87,
+            "Confort": 5.03
         }    
     },
     "Rigidité" :
