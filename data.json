@@ -12,7 +12,7 @@
         {
             "Contrôle": 2.0,
             "Puissance": 8.0,
-            "Effet": 5.0,
+            "Effet": 5.50,
             "Confort": 8.0
         },
         "Boyau":
@@ -251,7 +251,7 @@
         {
             "Contrôle": 5.00,
             "Puissance": 5.00,
-            "Effet": 5.00,
+            "Effet": 5.50,
             "Confort": 4.50
         },
         "33":
@@ -375,7 +375,7 @@
         "59/60":
         {
             "Contrôle": 11.24,
-            "Puissance": 6.97,
+            "Puissance": 6.09,
             "Effet": 4.33,
             "Confort": 4.33
         },
@@ -417,7 +417,7 @@
         "71/72":
         {
             "Contrôle": 6.0,
-            "Puissance": 10.4,
+            "Puissance": 11.3,
             "Effet": 4.33,
             "Confort": 4.33
         },
