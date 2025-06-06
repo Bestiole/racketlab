@@ -1,7 +1,7 @@
 {
     "Cordage":
     {
-        "Monofilament":
+        "Monofilament*":
         {
             "Contrôle": 6.0,
             "Puissance": 4.0,
@@ -12,7 +12,7 @@
         {
             "Contrôle": 2.0,
             "Puissance": 8.0,
-            "Effet": 5.0,
+            "Effet": 5.50,
             "Confort": 8.0
         },
         "Boyau":
@@ -103,7 +103,7 @@
             "Confort": 3.0
         }
     },
-    "Jauge-new+":
+    "Jauge":
     {
 		"1.10":
         {
@@ -251,7 +251,7 @@
         {
             "Contrôle": 5.00,
             "Puissance": 5.00,
-            "Effet": 5.00,
+            "Effet": 5.50,
             "Confort": 4.50
         },
         "33":
@@ -375,7 +375,7 @@
         "59/60":
         {
             "Contrôle": 11.24,
-            "Puissance": 6.97,
+            "Puissance": 6.09,
             "Effet": 4.33,
             "Confort": 4.33
         },
@@ -417,7 +417,7 @@
         "71/72":
         {
             "Contrôle": 6.0,
-            "Puissance": 10.4,
+            "Puissance": 11.3,
             "Effet": 4.33,
             "Confort": 4.33
         },
@@ -441,9 +441,9 @@
         "21 à 22":
         {
             "Contrôle": 13.00,
-            "Puissance": 3.00,
-            "Effet": 5.00,
-            "Confort": 5.00
+            "Puissance": 4.33,
+            "Effet": 4.33,
+            "Confort": 4.33
         },
         "23 à 24":
         {
@@ -454,10 +454,10 @@
         },
         "25 à 26":
         {
-            "Contrôle": 3.00,
+            "Contrôle": 4.33,
             "Puissance": 13.00,
-            "Effet": 5.00,
-            "Confort": 5.00
+            "Effet": 4.33,
+            "Confort": 4.33
         }
     }
 }
