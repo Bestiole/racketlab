@@ -1,7 +1,7 @@
 {
     "Cordage":
     {
-        "Monofilament":
+        "Monofilament*":
         {
             "Contrôle": 6.0,
             "Puissance": 4.0,
