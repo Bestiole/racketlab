@@ -354,6 +354,13 @@
             "Puissance": 6.47,
             "Effet": 2.87,
             "Confort": 5.03
+ 	},
+	    "316 à 320":
+        {
+            "Contrôle": 4.16,
+            "Puissance": 6.86,
+            "Effet": 2.32,
+            "Confort": 5.39
         }    
     },
     "Rigidité" :
